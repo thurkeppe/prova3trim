@@ -1,0 +1,17 @@
+
+.calculadora{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.botao{
+    font-size: 25px;
+    cursor: pointer;
+    margin: 3px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+
+}
+head{
+    background-color: darkkhaki;
+}
